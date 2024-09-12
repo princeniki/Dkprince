@@ -1,5 +1,5 @@
 chmod +x *
 
-./king
-
 pip install telebot
+
+python3 m.py
